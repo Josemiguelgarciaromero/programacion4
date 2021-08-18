@@ -1,0 +1,14 @@
+<html>
+<hed>
+</head>
+<a name="introducción"></a>
+<h2>Introduccion"></a>
+<p>
+<a 4 4 4 de tablas <br></p>f
+<a name="crdeaciontabla"></a>
+<h2>Creasion tdd5t//dte una tabla ssss mostrar sus campos</h2> <p>      Una base de datos almacena sus datos en tablas.<br></p>
+<a name="cargarregistros"></a>
+<h2>Carga de registros a una tabla y su recuperacion</h2> <p>
+</p>
+<www21qqe1sw>
+</html> 

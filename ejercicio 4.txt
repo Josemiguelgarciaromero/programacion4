@@ -1,0 +1,12 @@
+<html>
+<headd>
+</head>
+<body>
+<p>
+</p>
+<p>
+Este tutorial tiene por odjetivo acerca de los conceptos iniciales para introducirse en el mundo de las bases de datos.
+</p>
+</body>
+</html>
+ Este tutorial tiene por odjetivo acercar los consectos iniciales para introducirse en el mundo de de las bases de datos                              
